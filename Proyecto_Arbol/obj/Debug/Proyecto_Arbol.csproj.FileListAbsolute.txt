@@ -1,0 +1,14 @@
+C:\Users\edgar\source\repos\Proyecto_Arbol\Proyecto_Arbol\bin\Debug\Proyecto_Arbol.exe.config
+C:\Users\edgar\source\repos\Proyecto_Arbol\Proyecto_Arbol\bin\Debug\Proyecto_Arbol.exe
+C:\Users\edgar\source\repos\Proyecto_Arbol\Proyecto_Arbol\bin\Debug\Proyecto_Arbol.pdb
+C:\Users\edgar\source\repos\Proyecto_Arbol\Proyecto_Arbol\obj\Debug\Proyecto_Arbol.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\Proyecto_Arbol\Proyecto_Arbol\obj\Debug\Proyecto_Arbol.csproj.SuggestedBindingRedirects.cache
+C:\Users\edgar\source\repos\Proyecto_Arbol\Proyecto_Arbol\obj\Debug\Proyecto_Arbol.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\Proyecto_Arbol\Proyecto_Arbol\obj\Debug\Proyecto_Arbol.exe
+C:\Users\edgar\source\repos\Proyecto_Arbol\Proyecto_Arbol\obj\Debug\Proyecto_Arbol.pdb
+C:\Users\edgar\source\repos\Proyecto_Arbol\Proyecto_Arbol\bin\Debug\Irony.dll
+C:\Users\edgar\source\repos\Proyecto_Arbol\Proyecto_Arbol\obj\Debug\Proyecto_Arbol.csproj.CopyComplete
+C:\Users\edgar\source\repos\Proyecto_Arbol\Proyecto_Arbol\obj\Debug\Proyecto_Arbol.Graficador.resources
+C:\Users\edgar\source\repos\Proyecto_Arbol\Proyecto_Arbol\obj\Debug\Proyecto_Arbol.csproj.GenerateResource.cache
+C:\Users\edgar\source\repos\Proyecto_Arbol\Proyecto_Arbol\obj\Debug\Interop.WINGRAPHVIZLib.dll
+C:\Users\edgar\source\repos\Proyecto_Arbol\Proyecto_Arbol\obj\Debug\Proyecto_Arbol.csproj.ResolveComReference.cache
